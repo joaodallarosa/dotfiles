@@ -1,0 +1,13 @@
+angularjs@0.3.3
+atom-beautify@0.28.14
+atom-css-comb@2.0.1
+auto-indent@0.5.0
+auto-update-packages@1.0.0
+color-picker@2.0.13
+css-snippets@0.9.0
+emmet@2.3.13
+file-icons@1.6.10
+ionic-framework-snippets@1.2.1
+material@2.1.4
+turbo-javascript@1.1.5
+
